@@ -44,11 +44,6 @@
 
 
 
-</td></tr></table>  
-
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/saadthedeveloper" target="_blank">
