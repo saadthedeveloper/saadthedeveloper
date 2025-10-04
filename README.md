@@ -42,7 +42,7 @@
 <a href="https://github.com/saadthedeveloper" target="_blank">  
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />  
 </a>  
-<a href="https://linkedin.com/in/muhammad-saad" target="_blank">  
+<a href="[https://linkedin.com/in/muhammad-saad](https://www.linkedin.com/in/muhammad-saad-6a7184297/)" target="_blank">  
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />  
 </a>  
 </div>  
