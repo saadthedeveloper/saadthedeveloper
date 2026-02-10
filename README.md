@@ -26,9 +26,7 @@
 
 <h2>Summary Cards</h2>
 <p align="center">
-  <img src="https://github-readme-stats-saadthedeveloper-5geq3g8q2.vercel.app/api?username=saadthedeveloper&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats-saadthedeveloper-5geq3g8q2.vercel.app/api/top-langs/?username=saadthedeveloper&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadthedeveloper&theme=tokyo-night&hide_border=true" />
 </p>
 
 
