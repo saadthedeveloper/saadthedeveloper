@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20Folks!&height=100&section=header"/>
 </p>
 
-<h1>👋 Hi, I'm Muhammad Saad</h1>
+<h1 style="font-size=50px">👋 Hi, I'm Muhammad Saad</h1>
 <h2>Software Engineering student · React.js Developer · UI/UX Enthusiast</h2>
 <p>I build front-end experiences that don't just work — they feel right. I take interaction design seriously and apply HCI principles to make sure every user touchpoint is intentional and polished. Currently leveling up toward full-stack, but my heart is in the front end.</p>
 
