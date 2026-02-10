@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20Folks!&height=100&section=header](https://capsule-render.vercel.app/api?type=wave&height=200&color=gradient&text=Hello%20Folks!&reversal=false&textBg=true&fontAlign=50&animation=fadeIn)"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20Folks!&height=100&section=header"/>
 </p>
 
 # I’m Muhammad, an aspiring Front-End Web Developer eager to learn, grow, and build engaging digital experiences 🚀  
