@@ -1,6 +1,6 @@
 <div align="center">
 
-![Muhammad's GitHub Banner](./assets/banner.webp)
+[![Muhammad's GitHub Banner](./assets/banner.webp)](https://capsule-render.vercel.app/api?type=wave&height=200&color=gradient&text=Hello%20Folks!&reversal=false&textBg=true&fontAlign=50&animation=fadeIn)
 
 # I’m Muhammad, an aspiring Front-End Web Developer eager to learn, grow, and build engaging digital experiences 🚀  
 
