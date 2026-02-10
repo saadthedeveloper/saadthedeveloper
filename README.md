@@ -25,7 +25,7 @@
 <br/>  
 
 <h2>Summary Cards</h2>
-![Saad's GitHub stats](https://github-readme-stats-saadthedeveloper.vercel.app/api?username=saadthedeveloper&show_icons=true&theme=react)
+<img src="https://github-readme-stats-saadthedeveloper.vercel.app/api?username=saadthedeveloper&show_icons=true&theme=react"/>
 
 
 
