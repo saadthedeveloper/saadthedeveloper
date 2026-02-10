@@ -26,11 +26,8 @@
 
 <h2>Summary Cards</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saadthedeveloper&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadthedeveloper&layout=compact&theme=tokyonight" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=saadthedeveloper&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadthedeveloper&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadthedeveloper&theme=tokyonight" />
 </p>
 
 
