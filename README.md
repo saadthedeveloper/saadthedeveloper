@@ -8,7 +8,7 @@
 
 <br>
 
-<h2>🔍 What I Do</h2>
+## What I Do
 <ul>
 <li>⚛️ React.js development (components, state, performance)</li>
 <li>🎨 UI/UX design with real HCI foundations</li>
@@ -18,7 +18,7 @@
 
 <br/>  
 
-<h2>💻 Tech Stack</h2>
+## Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma,wordpress,sql)](https://skillicons.dev)
 
