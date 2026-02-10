@@ -1,16 +1,14 @@
-<div align="center">
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20Folks!&height=100&section=header"/>
 </p>
 
-# I’m Muhammad, an aspiring Front-End Web Developer eager to learn, grow, and build engaging digital experiences 🚀  
+👋 Hi, I'm Muhammad Saad
 
-</div>  
+### Software Engineering Student | Frontend Developer | Aspiring Full-Stack Engineer
 
-- 🌱 I’m currently learning **React**  
-- ❓ Ask me about anything related to **JavaScript**  
-- ⚡ Fun fact: I use **tabs** over spaces  
+I'm a Software Engineering student with a passion for crafting clean, responsive, and user-friendly web experiences. I specialize in front-end development and am actively growing toward becoming a front-end focused full-stack developer.
+
+---
 
 <br/>  
 
