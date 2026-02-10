@@ -3,22 +3,32 @@
 </p>
 
 <h1>👋 Hi, I'm Muhammad Saad</h1>
-<h3>Software Engineering student · React.js Developer · UI/UX Enthusiast</h3>
+<h2>Software Engineering student · React.js Developer · UI/UX Enthusiast</h2>
 <p>I build front-end experiences that don't just work — they feel right. I take interaction design seriously and apply HCI principles to make sure every user touchpoint is intentional and polished. Currently leveling up toward full-stack, but my heart is in the front end.</p>
+
 <br>
-<h3>🔍 What I Do</h3>
+
+<h2>🔍 What I Do</h2>
 <ul>
 <li>⚛️ React.js development (components, state, performance)</li>
 <li>🎨 UI/UX design with real HCI foundations</li>
 <li>🧩 Problem-solving at the front-end level</li>
 <li>🌐 Expanding into full-stack web development</li>
 </ul>
----
 
 <br/>  
 
-## My Skill Set  
-<table><tr><td valign="top" width="50%">
+<h2>💻 Tech Stack</h2>
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
 
 ### Core Tech Stack  
 <div align="center">  
