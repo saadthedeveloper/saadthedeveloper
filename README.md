@@ -4,7 +4,7 @@
 
 <h1>I'm Muhammad Saad</h1>
 <h2>Software Engineering student · React.js Developer · UI/UX Enthusiast</h2>
-<p>I build front-end experiences that don't just work — they feel right. I take interaction design seriously and apply HCI principles to make sure every user touchpoint is intentional and polished. Currently leveling up toward full-stack, but my heart is in the front end.</p>
+<p>Front-end developer with a strong focus on interaction design and user experience. I build React applications that are not only functional but intuitive and enjoyable to use. Currently expanding my skills toward full-stack development, with a deep passion for crafting great front-end experiences.</p>
 
 <br>
 
