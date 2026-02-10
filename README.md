@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20Folks!&height=100&section=header"/>
 </p>
 
-👋 Hi, I'm Muhammad Saad
+<h1>👋 Hi, I'm Muhammad Saad</h1>
 
 ### Software Engineering Student | Frontend Developer | Aspiring Full-Stack Engineer
 
