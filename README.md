@@ -3,11 +3,15 @@
 </p>
 
 <h1>👋 Hi, I'm Muhammad Saad</h1>
-
-### Software Engineering Student | Frontend Developer | Aspiring Full-Stack Engineer
-
-I'm a Software Engineering student with a passion for crafting clean, responsive, and user-friendly web experiences. I specialize in front-end development and am actively growing toward becoming a front-end focused full-stack developer.
-
+<h3>Software Engineering student · React.js Developer · UI/UX Enthusiast</h3>
+I build front-end experiences that don't just work — they feel right. I take interaction design seriously and apply HCI principles to make sure every user touchpoint is intentional and polished. Currently leveling up toward full-stack, but my heart is in the front end.
+🔍 What I Do
+<ul>
+<li>⚛️ React.js development (components, state, performance)</li>
+<li>🎨 UI/UX design with real HCI foundations</li>
+<li>🧩 Problem-solving at the front-end level</li>
+<li>🌐 Expanding into full-stack web development</li>
+</ul>
 ---
 
 <br/>  
