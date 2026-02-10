@@ -26,8 +26,9 @@
 
 <h2>Summary Cards</h2>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saadthedeveloper&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saadthedeveloper&theme=tokyonight" />
+  <img src="https://github-readme-stats-saadthedeveloper-6oz1yrawp.vercel.app/api?username=saadthedeveloper&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats-saadthedeveloper-6oz1yrawp.vercel.app/api/top-langs/?username=saadthedeveloper&layout=compact&theme=tokyonight" />
 </p>
 
 
