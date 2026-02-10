@@ -31,14 +31,9 @@
 
 
 ## Connect with me  
-<div align="center">  
-<a href="https://github.com/saadthedeveloper" target="_blank">  
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />  
-</a>  
-<a href="https://www.linkedin.com/in/muhammad-saad-6a7184297/" target="_blank">  
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />  
-</a>  
-</div>  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/saadthedeveloper)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:YOUR_EMAIL) 
 
 <br/>  
 
