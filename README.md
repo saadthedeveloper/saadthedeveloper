@@ -25,9 +25,7 @@
 <br/>  
 
 <h2>Summary Cards</h2>
-[![Saad's GitHub stats](https://github-readme-stats-saadthedeveloper.vercel.app/api?username=saadthedeveloper&show_icons=true&theme=react)](https://github.com/saadthedeveloper)
-[![Top Languages](https://github-readme-stats-saadthedeveloper.vercel.app/api/top-langs/?username=saadthedeveloper&layout=compact&theme=react)](https://github.com/saadthedeveloper)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saadthedeveloper&theme=react)](https://github.com/saadthedeveloper)
+![Saad's GitHub stats](https://github-readme-stats-saadthedeveloper.vercel.app/api?username=saadthedeveloper&show_icons=true&theme=react)
 
 
 
