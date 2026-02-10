@@ -31,7 +31,7 @@
 
 
 ## Connect with me  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammad-saad-6a7184297?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/saadthedeveloper)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:YOUR_EMAIL) 
 
