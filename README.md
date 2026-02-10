@@ -24,22 +24,20 @@
 
 <br/>  
 
+## Connect with me  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammad-saad-6a7184297?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/saadthedeveloper)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:m.saad23145@gmail.com) 
+
+<br/>  
+
 <h2>Summary Cards</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saadthedeveloper&theme=tokyo-night&hide_border=true" />
 </p>
 
+<br>
 
-## Connect with me  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/muhammad-saad-6a7184297?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/saadthedeveloper)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:YOUR_EMAIL) 
 
-<br/>  
 
-## GitHub Stats  
-<div align="center">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadthedeveloper&hide_border=true&layout=compact" align="center" />  
-</div>  
 
-<br/> 
