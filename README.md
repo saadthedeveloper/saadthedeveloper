@@ -1,5 +1,7 @@
 <div align="center">
 
+[![Muhammad's GitHub Banner](./assets/banner.webp)]
+
 # I’m Muhammad, an aspiring Front-End Web Developer eager to learn, grow, and build engaging digital experiences 🚀  
 
 </div>  
