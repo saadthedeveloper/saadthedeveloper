@@ -20,7 +20,7 @@
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma,wordpress,sql,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,wordpress,sql)](https://skillicons.dev)
 
 <br/>  
 
